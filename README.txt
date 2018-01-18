@@ -19,9 +19,11 @@ As Alert Action
  10. Data is stored in  the index specified in Step 5.
 
 ### Issues, Bugs, Features ;)
-Version 0.0.1 - No API Key functionality
+Version 1.0.0 - No API Key functionality - Fixed
 
 Hit me up on twitter (@)MickeyPerre for any issues, bugs and features.
 
 ### Release Notes
-0.0.1 - Initial Release, supports Alert Action / Adaptive Response to search an IP Address.  API Key option is present but not working.  Will add in next release once api key is received
+1.1.0 - Added API Key support, Validate that IP addresses and API Keys are valid.
+1.0.0 - Initial Release, supports Alert Action / Adaptive Response to search an IP Address.  API Key option is present but not working.  Will add in next release once api key is received
+
